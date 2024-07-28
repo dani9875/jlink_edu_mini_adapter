@@ -1,0 +1,1 @@
+# jlink_edu_mini_adapter
